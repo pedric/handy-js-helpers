@@ -1,3 +1,11 @@
 body {
-  background: gray;
+  background: rgb(211, 211, 211);
+}
+
+.autocomplete[data-module="autocomplete"] {
+  position: relative;
+}
+
+.autocomplete-results {
+  background: white;
 }
